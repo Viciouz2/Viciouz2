@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viciouz2" alt="viciouz2" /></a> </p>
 
-- 📫 How to reach me **aaroncabantugancrypto@gmail.com**
+- 📫 Find me in [Linkedin](https://www.linkedin.com/in/aaron-jeffrey-71731318b/), [Twitter](https://twitter.com/viciousneweth) and [Discord](https://discordapp.com/users/357501216655409162), or contact me via mail: aaroncabantugancrypto@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## My Journey
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Courses**
+- [CryptoZombies](https://cryptozombies.io/) | **Solidity**
