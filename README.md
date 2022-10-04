@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicious</h1>
 <h3 align="center">Inspiring Solidity Developer / MEV army</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viciouz2&label=Profile%20views&color=0e75b6&style=flat" alt="viciouz2" /> </p>
-
-
 
 #### What I do?
 - 🛠 Buidling in Web3 with Solidity.
